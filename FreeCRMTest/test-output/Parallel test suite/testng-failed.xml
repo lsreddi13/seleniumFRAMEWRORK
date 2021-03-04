@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [Parallel test suite]" parallel="tests">
+  <test thread-count="3" name="SampleTest1(failed)" parallel="tests">
+    <classes>
+      <class name="com.crm.qa.test.LoginPageTest">
+        <methods>
+          <include name="loginTestFailed"/>
+          <include name="loginTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.crm.qa.test.LoginPageTest -->
+    </classes>
+  </test> <!-- SampleTest1(failed) -->
+</suite> <!-- Failed suite [Parallel test suite] -->

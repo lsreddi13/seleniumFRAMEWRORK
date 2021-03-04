@@ -1,0 +1,11 @@
+[INFO] 2020-08-10 12:10:30,251 com.crm.qa.pages.LoginPage <init> - initializing the elements
+[INFO] 2020-08-10 12:10:34,216 com.crm.qa.pages.LoginPage <init> - initializing the elements
+[INFO] 2020-08-10 12:10:34,228 com.crm.qa.test.HomePageTest verifyHomePageTitle - going to login.
+[INFO] 2020-08-10 12:10:34,864 com.crm.qa.pages.LoginPage <init> - initializing the elements
+[INFO] 2020-08-10 12:10:35,618 com.crm.qa.test.HomePageTest verifyHomePageTitle - user loggedin successfully
+[INFO] 2020-08-10 12:10:45,903 com.crm.qa.test.HomePageTest tearDown - close this browser
+[DEBUG] 2020-08-10 12:11:00,076 freemarker.cache debug - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2020-08-10 12:11:00,078 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+[DEBUG] 2020-08-10 12:11:00,081 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2020-08-10 12:11:00,083 freemarker.cache debug - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2020-08-10 12:11:00,083 freemarker.cache debug - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/sasid/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
